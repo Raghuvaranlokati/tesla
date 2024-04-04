@@ -1,0 +1,7 @@
+{
+    // other configurations
+    "globals": {
+      "boolean": "readonly"
+    }
+  }
+  
